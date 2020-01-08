@@ -1,4 +1,4 @@
-![kdata](http://bigjob.dbguide.net/wp-content/uploads/2019/04/main_info02.png)&nbsp;&nbsp;![kdata](http://bigjob.dbguide.net/wp-content/uploads/2019/04/main_info01.png)&nbsp;&nbsp;![kdata](http://bigjob.dbguide.net/wp-content/uploads/2019/04/yonsei2.png)
+![kdata](http://bigjob.dbguide.net/wp-content/uploads/2019/04/main_info02.png)　　![kdata](http://bigjob.dbguide.net/wp-content/uploads/2019/04/main_info01.png)　　![kdata](http://bigjob.dbguide.net/wp-content/uploads/elementor/thumbs/yonsei-o6hdghcrf0syvoff4qlrjk3lri1fazdvm0h1nugehk.png)
 
 
 데이터 청년 캠퍼스 - 빅데이터 청년인재
