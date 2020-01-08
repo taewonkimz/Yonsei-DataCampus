@@ -18,4 +18,4 @@
 - 머신러닝, 딥러닝 기법을 적용한 빅데이터 분석 실무 교육
 #### 교육인원 : 66명
 #### 교육과정
-![yonsei](C:\Users\김태원\Desktop\tw_github\Yonsei-DataCampus\yonsei.PNG)
+![교육과정](./image/교육과정.png)
